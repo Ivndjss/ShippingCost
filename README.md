@@ -32,3 +32,6 @@
 1 - create class name InsuredPackage that extends to Package
 2 - set the parameters to super (the weight and the shipping method)
 3 - create loop to call the method from Package class to calculate the cost which is the weight value and the shippign method with InsuredPackage value.
+
+
+https://www.codiva.io/p/030c6cc9-b5ac-4f68-9dcb-c459a8d3e2d7
